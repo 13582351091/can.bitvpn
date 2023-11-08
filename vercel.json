@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "http://185.242.232.173"}
+      {"src": "/(.*)","dest": "http://bitvpn.us"}
     ]
 }
