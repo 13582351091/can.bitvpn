@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://github.com/13582351091/cdn.bitvpn/releases/download/bit"}
+      {"src": "/(.*)","dest": "https://github.com/13582351091/cdn.bitvpn/releases/download/bit/BitVPN.apk"}
     ]
 }
